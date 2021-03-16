@@ -91,7 +91,7 @@ section[epub|type~="z3998:scene"] > p{
 }
 /* End dramatis personae */
 
-/*Verse blockquotes*/
+/* Verse blockquotes */
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
@@ -110,4 +110,4 @@ section[epub|type~="z3998:scene"] > p{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
-/*End verse blockquotes*/
+/* End verse blockquotes */
