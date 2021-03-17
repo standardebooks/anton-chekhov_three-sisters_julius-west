@@ -88,11 +88,6 @@ section[epub|type~="z3998:scene"] > p{
 	margin-top: 2em;
 }
 
-[epub|type~="z3998:dramatis-personae"] li p + p{
-	font-style: normal;
-	text-indent: 0;
-}
-
 #dramatis-personae tr{
 	break-inside: avoid;
 }
@@ -106,9 +101,8 @@ section[epub|type~="z3998:scene"] > p{
 
 #dramatis-personae tr td + td{
 	border-left: 1px solid;
-	text-align: left;
+	text-align: initial;
 	padding: 0 0 0 .5em;
-	font-style: normal;
 }
 /* End dramatis personae */
 
