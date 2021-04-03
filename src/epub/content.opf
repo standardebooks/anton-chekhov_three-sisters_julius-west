@@ -38,14 +38,14 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Three sisters long to escape their provincial town and return to Moscow.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The sisters Olga, Masha, and Irina live with their brother Andrey in a provincial Russian town, and plan to return to Moscow, where they grew up, as soon as they are able. Olga does not want to continue working at the school where she is a teacher and sometimes headmaster, Masha is disillusioned in her marriage, Irina hopes to find her true love, and Andrey shows promise of becoming a professor. Also stationed in their town is a battery of soldiers that provide them with their social life. When Andrey falls in love with Natasha, their hopes for change are dashed, bit by bit.&lt;/p&gt;
+			&lt;p&gt;First performed in 1901 at the Moscow Art Theatre, &lt;i&gt;Three Sisters&lt;/i&gt; is considered one of Checkhov’s best plays. While critical reception at the time was mixed, the show was popular, became a part of the company’s repetoire, and is still commonly staged and adapted today.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7986</dc:source>
 		<dc:source>https://archive.org/details/playstchekoff00chek/</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Three_Sisters</meta>
