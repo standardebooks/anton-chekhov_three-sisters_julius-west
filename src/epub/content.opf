@@ -53,6 +53,7 @@
 		<dc:creator id="author">Anton Chekhov</dc:creator>
 		<meta property="file-as" refines="#author">Chekhov, Anton</meta>
 		<meta property="se:name.person.full-name" refines="#author">Anton Pavlovich Chekhov</meta>
+		<meta property="alternate-script" refines="#author">Анто́н Па́влович Че́хов</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anton_Chekhov</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79130807</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
