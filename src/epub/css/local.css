@@ -125,13 +125,3 @@ section[epub|type~="z3998:scene"] > p{
 	display: none;
 }
 /* End verse blockquotes */
-
-/* Editorial stage directions */
-[epub|type~="z3998:stage-direction"].editorial::before{
-	content: "[";
-}
-
-[epub|type~="z3998:stage-direction"].editorial::after{
-	content: "]";
-}
-/* End editorial stage directions */
