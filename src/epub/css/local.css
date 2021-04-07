@@ -80,8 +80,8 @@ section[epub|type~="z3998:scene"] > p{
 }
 
 [epub|type~="z3998:dramatis-personae"] ul li{
-	margin: 1em;
 	font-style: italic;
+	margin: 1em;
 }
 
 [epub|type~="z3998:dramatis-personae"] ul + p{
@@ -93,16 +93,16 @@ section[epub|type~="z3998:scene"] > p{
 }
 
 #dramatis-personae tr td{
-	padding: 0 .5em 0 0;
-	vertical-align: middle;
+	padding-right: .5em;
 	text-align: right;
 	width: 50%;
+	vertical-align: middle;
 }
 
 #dramatis-personae tr td + td{
 	border-left: 1px solid;
+	padding-left: .5em;
 	text-align: initial;
-	padding: 0 0 0 .5em;
 }
 /* End dramatis personae */
 
