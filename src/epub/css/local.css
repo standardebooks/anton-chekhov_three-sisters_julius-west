@@ -87,23 +87,6 @@ section[epub|type~="z3998:scene"] > p{
 [epub|type~="z3998:dramatis-personae"] ul + p{
 	margin-top: 2em;
 }
-
-#dramatis-personae tr{
-	break-inside: avoid;
-}
-
-#dramatis-personae tr td{
-	padding-right: .5em;
-	text-align: right;
-	width: 50%;
-	vertical-align: middle;
-}
-
-#dramatis-personae tr td + td{
-	border-left: 1px solid;
-	padding-left: .5em;
-	text-align: initial;
-}
 /* End dramatis personae */
 
 /* Verse blockquotes */
