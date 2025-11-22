@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Three Sisters</dc:title>
 		<meta property="file-as" refines="#title">Three Sisters</meta>
-		<meta property="dcterms:alternate">3 Sisters</meta>
+		<meta property="dcterms:alternative">3 Sisters</meta>
 		<dc:subject id="subject-1">Russian drama -- Translations into English</dc:subject>
 		<dc:subject id="subject-2">Chekhov, Anton Pavlovich, 1860-1904 -- Translations into English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
