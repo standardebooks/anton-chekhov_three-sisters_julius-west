@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/anton-chekhov/three-sisters/julius-west</dc:identifier>
 		<dc:date>2021-04-07T19:19:43Z</dc:date>
@@ -38,11 +38,11 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="schema:genre">Drama</meta>
-		<dc:description id="description">Three sisters long to escape their provincial town and return to Moscow.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Three sisters long to escape their provincial town and return to Moscow.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The sisters Olga, Masha, and Irina live with their brother Andrey in a provincial Russian town, and plan to return to Moscow, where they grew up, as soon as they’re able. Olga doesn’t want to continue working at the school where she’s a teacher and occasional headmaster; Masha is disillusioned in her marriage; Irina hopes to find her true love; and Andrey shows promise of becoming a professor. Also stationed in their town is a battery of soldiers that provide them with a social life. When Andrey falls in love with Natasha, their hopes for change are dashed, bit by bit.&lt;/p&gt;
 			&lt;p&gt;First performed in 1901 at the Moscow Art Theatre, &lt;i&gt;Three Sisters&lt;/i&gt; is considered one of &lt;a href="https://standardebooks.org/ebooks/anton-chekhov"&gt;Chekhov’s&lt;/a&gt; best plays. While critical reception at the time was mixed, the show was popular enough to become a part of the company’s repertoire, and is still commonly staged and adapted today.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7986</dc:source>
 		<dc:source>https://archive.org/details/playstchekoff00chek</dc:source>
